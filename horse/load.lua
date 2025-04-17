@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://skibidiuwauwusigmaditgital.vercel.app/horse/main.txt"))()
+loadstring(game:HttpGet("https://skibidiuwauwusigmaditgital.vercel.app/horse/main.lua"))()
